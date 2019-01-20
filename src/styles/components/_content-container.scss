@@ -1,0 +1,6 @@
+.content-container {
+    margin: 0 auto;
+    padding: 0 $m-size; /* None of our content pushes against the edge of the browser */
+    max-width: 80rem;
+    /* Inherits the background */
+}
